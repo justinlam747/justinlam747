@@ -1,4 +1,4 @@
-# Hey, I'm Justin! 
+# Hey, I'm Justin! 😸
 
 ## I am an engineering student at the University of Waterloo, and I use projects to make my life easier :p
 
