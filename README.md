@@ -1,4 +1,6 @@
-# Hey, I'm Justin! 😸
+# Hey, I'm Justin! 
+## I'm an engineering student at the University of Waterloo
+
 
 
 
