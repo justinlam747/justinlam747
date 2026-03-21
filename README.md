@@ -1,10 +1,10 @@
 ## Hey, I'm Justin 👋
 
-🎓 Engineering student at Queen's University
+Engineering student at The University Of Waterloo
 
-💻 I like building full-stack apps, embedded systems, and ML projects that solve real problems
+I like building full-stack apps, embedded systems, and ML projects that solve real problems
 
-🔧 Currently building a production Shopify inventory app with Rails, Sidekiq, and Claude AI
+Currently building a Shopify inventory project with Rails and Sidekiq
 
 ---
 
