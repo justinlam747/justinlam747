@@ -2,7 +2,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
 
-I'm an engineering student at the University of Waterloo. I like building software for marketing and e-commerce through campaign management platforms, ad integrations, attribution pipelines, and inventory systems. I'm a big foodie, I love skiing and golfing, and I am currently learning Ruby! 
+I'm an engineering student at the University of Waterloo. I like building things within the marketing and e-commerce space. I'm a big foodie, I love skiing and golfing, and I am currently learning Ruby! 
 
 
 
