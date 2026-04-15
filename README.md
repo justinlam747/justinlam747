@@ -4,7 +4,7 @@
 
 I'm an engineering student at the University of Waterloo. I like building things within the marketing and e-commerce space. I'm a big foodie, I love skiing and golfing, and I am currently learning Ruby! 
 
-
+Previously @Adcero
 
 ### Connect
 
